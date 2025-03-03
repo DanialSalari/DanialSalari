@@ -7,7 +7,7 @@ Programming:
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/Python_icon.png" alt="JS" width="40"/>
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/JavaScript_icon.png" alt="JS" width="40"/>
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/react_icon.png" alt="JS" width="40"/>
-  <img src="https://github.com/DanialSalari/DanialSalari/blob/main/next.png" alt="JS" width="40"/>
+  <img src="https://github.com/DanialSalari/DanialSalari/blob/main/nuxt.png" alt="JS" width="40"/>
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/vue_icon.png" alt="JS" width="40"/>
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/nuxt_icon.png" alt="JS" width="40"/>
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/html_icon.png" alt="JS" width="40"/>

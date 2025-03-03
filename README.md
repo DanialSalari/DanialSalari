@@ -21,4 +21,4 @@ When I’m not coding, you’ll find me exploring new tech trends, working on pe
 
 Email: danial.slriii@gmail.com
 
-Linkedin: linkedin.com/in/danial-salari/
+Linkedin: [linkedin.com/in/danial-salari/](https://www.linkedin.com/in/danial-salari/)

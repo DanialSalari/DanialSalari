@@ -4,7 +4,7 @@ I’m a passionate software developer with a love for building efficient, scalab
 
 Programming: 
 <p align="left">
-  <img src="https://github.com/DanialSalari/DanialSalari/blob/main/JSicon" alt="JS" width="40"/>
+  <img src="https://github.com/DanialSalari/DanialSalari/blob/main/JSicon.png" alt="JS" width="40"/>
 </p>
 
 

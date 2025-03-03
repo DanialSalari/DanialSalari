@@ -3,7 +3,7 @@ Hi, I’m Danial (AKA Dani , AKA Dantey04)! 👋
 I’m a passionate software developer with a love for building efficient, scalable applications. I specialize in JavaScript, Front-End Development and I’m always excited to learn more.
 
 Programming: 
-<p align="left" style="background-color: #ffffff">
+<p align="left" style="background-color: white">
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/Python_icon.png" alt="JS" width="40"/>
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/JavaScript_icon.png" alt="JS" width="40"/>
   <img src="https://github.com/DanialSalari/DanialSalari/blob/main/react_icon.png" alt="JS" width="40"/>

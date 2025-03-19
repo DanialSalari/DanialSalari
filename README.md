@@ -2,7 +2,7 @@
 
 I’m a passionate software developer with a love for building efficient, scalable applications. I specialize in JavaScript, Front-End Development and I’m always excited to learn more.
 
-## 💻 Programming Languages  
+## 💻 Programming Languages  &  Tools
 
 - **Python** –
 - **C++** –
